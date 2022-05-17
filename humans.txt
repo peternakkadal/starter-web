@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kevin Agustinus		kevin@serunimobile.com		@_kevinagustinus
 
 # THANKS
 
